@@ -3,7 +3,7 @@ Simulating eco-evolutionary dynamics in mutualistic networks
 
 In this repository we make available the code for the eco-evolutionary model simulations developed as part of the paper:
 
-**Structural stability predicts evolutionary stability in mutualistic model ecosystems**
+**Structural stability estimated through critical perturbation determines evolutionary persistence in mutualistic model ecosystems**
 
 Authors: Miguel Lurgi & Alberto Pascual-García
 
