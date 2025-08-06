@@ -7,6 +7,10 @@ In this repository we make available the code for the eco-evolutionary model sim
 
 Authors: Miguel Lurgi & Alberto Pascual-García
 
+Journal: ***Royal Society Open Science***, 2025, **12**:250123
+
+DOI: [http://doi.org/10.1098/rsos.250123](http://doi.org/10.1098/rsos.250123)
+
 **Dependencies:** The ecological model and simulations are implemented as as fortran package that must be downloaded and added to the working path of the R script provided here. This fortran package provides de routines to run the ecological dynamics of the simulations and is through R. The package can be found here: https://github.com/apascualgarcia/RatioDependent
 
 This repository contains scipts implementing the numerical simulations as well as the routines develop to plot and present the results.
